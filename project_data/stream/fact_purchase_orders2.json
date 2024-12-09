@@ -1,0 +1,58 @@
+[
+	{
+		"fact_order_key" : 5,
+		"user_key" : 24,
+		"comment_key" : 5,
+		"product_key" : 5,
+		"store_id" : 218,
+		"product_name" : "GoPro HERO5",
+		"brand" : "GoPro",
+		"type" : "cameras",
+		"amount" : 80,
+		"price" : 599,
+		"modelNumber" : "CHDHX-501-CA",
+		"color" : "black"
+	},
+	{
+		"fact_order_key" : 6,
+		"user_key" : 5,
+		"comment_key" : 6,
+		"product_key" : 2,
+		"store_id" : 10,
+		"product_name" : "Bose QuietComfort 35 wireless headphone",
+		"brand" : "Bose",
+		"type" : "headphone",
+		"amount" : 100,
+		"price" : 449,
+		"modelNumber" : "759944-0010",
+		"color" : "black"
+	},
+	{
+		"fact_order_key" : 7,
+		"user_key" : 18,
+		"comment_key" : 7,
+		"product_key" : 5,
+		"store_id" : 218,
+		"product_name" : "GoPro HERO5",
+		"brand" : "GoPro",
+		"type" : "cameras",
+		"amount" : 80,
+		"price" : 599,
+		"modelNumber" : "CHDHX-501-CA",
+		"color" : "black"
+	},
+	{
+		"fact_order_key" : 8,
+		"user_key" : 41,
+		"comment_key" : 8,
+		"product_key" : 8,
+		"store_id" : 8,
+		"product_name" : "Microsoft Surface Pro 4 i5 (128GB) with Wireless Media Adapter",
+		"brand" : "Microsoft",
+		"type" : "laptop",
+		"amount" : 30,
+		"price" : 1350,
+		"modelNumber" : "CR5-00001",
+		"color" : "black"
+	}
+]

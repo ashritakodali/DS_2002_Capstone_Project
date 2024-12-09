@@ -1,0 +1,58 @@
+[
+	{
+		"fact_order_key" : 1,
+		"user_key" : 12,
+		"comment_key" : 1,
+		"product_key" : 3,
+		"store_id" : 39,
+		"product_name" : "Canon EOS Rebel T5",
+		"brand" : "Canon",
+		"type" : "cameras",
+		"amount" : 50,
+		"price" : 500,
+		"modelNumber" : "9126B003",
+		"color" : "black"
+	},
+	{
+		"fact_order_key" : 2,
+		"user_key" : 12,
+		"comment_key" : 2,
+		"product_key" : 2,
+		"store_id" : 10,
+		"product_name" : "Bose QuietComfort 35 wireless headphone",
+		"brand" : "Bose",
+		"type" : "headphone",
+		"amount" : 100,
+		"price" : 449,
+		"modelNumber" : "759944-0010",
+		"color" : "black"
+	},
+	{
+		"fact_order_key" : 3,
+		"user_key" : 24,
+		"comment_key" : 3,
+		"product_key" : 6,
+		"store_id" : 218,
+		"product_name" : "Microsoft Xbox 360 Wired Controller for Windows",
+		"brand" : "Microsoft",
+		"type" : "controllers",
+		"amount" : 60,
+		"price" : 35,
+		"modelNumber" : "52A-00004",
+		"color" : "black"
+	},
+	{
+		"fact_order_key" : 4,
+		"user_key" : 18,
+		"comment_key" : 4,
+		"product_key" : 1,
+		"store_id" : 8,
+		"product_name" : "ASUS Chromebook 11.6 laptop",
+		"brand" : "Asus",
+		"type" : "laptop",
+		"amount" : 10,
+		"price" : 262,
+		"modelNumber" : "C201PA-DS02",
+		"color" : "navy blue"
+	}
+]

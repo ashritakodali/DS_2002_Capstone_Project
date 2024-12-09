@@ -1,0 +1,44 @@
+[
+	{
+		"fact_order_key" : 9,
+		"user_key" : 12,
+		"comment_key" : 9,
+		"product_key" : 4,
+		"store_id" : 77,
+		"product_name" : "DELL Ultra HD 4k Monitor P2715Q 27-Inch Screen LED-Lit Monitor",
+		"brand" : "DELL",
+		"type" : "computer accessories",
+		"amount" : 40,
+		"price" : 713,
+		"modelNumber" : "P2715Q",
+		"color" : "black"
+	},
+	{
+		"fact_order_key" : 10,
+		"user_key" : 41,
+		"comment_key" : 10,
+		"product_key" : 7,
+		"store_id" : 8,
+		"product_name" : "Microsoft Sculpt Ergonomic Wireless Bluetrack Desktop Keyboard",
+		"brand" : "Microsoft",
+		"type" : "computer accessories",
+		"amount" : 70,
+		"price" : 126,
+		"modelNumber" : "L5V-00003",
+		"color" : "black"
+	},
+	{
+		"fact_order_key" : 11,
+		"user_key" : 5,
+		"comment_key" : 11,
+		"product_key" : 1,
+		"store_id" : 8,
+		"product_name" : "ASUS Chromebook 11.6 laptop",
+		"brand" : "Asus",
+		"type" : "laptop",
+		"amount" : 10,
+		"price" : 262,
+		"modelNumber" : "C201PA-DS02",
+		"color" : "navy blue"
+	}
+]
